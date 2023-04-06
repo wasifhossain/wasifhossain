@@ -1,4 +1,4 @@
-### Hi there 👋 Thanks for checking this out!
+### Hi there 👋 Thanks for checking this out! I am mainly active on Gitlab. You can check [my activity over there](https://gitlab.com/wasifhossain).
 
 <!--
 **wasifhossain/wasifhossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
